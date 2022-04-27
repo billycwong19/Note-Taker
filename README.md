@@ -42,7 +42,7 @@
 
 ## About The Project
 <div align="center">
-    <img src="images/nottaker_screenshot.png" alt="Logo" height="150">
+    <img src="images/nottaker_screenshot.png" alt="Logo" height="300">
 </div>
 
 <p>The Note Taker app is brought to life by Express and Node.js. By setting up routes and fetch requests, I was able to save data to a database, retrieve it, and delete it, using GET, POST, and DELETE. The HTML was already provided, so I acted as my own back-end development team supplying the proper routes for displaying and retrieving data. This website has been deployed to Heroku: <a href="https://note-taker-thing.herokuapp.com">View Site</a>.</p>
