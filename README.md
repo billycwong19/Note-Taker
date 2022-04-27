@@ -25,7 +25,7 @@
   </p>
 </div>
 
-<details>
+
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -38,7 +38,7 @@
       </ul>
     </li>
   </ol>
-</details>
+
 
 ## About The Project
 <div align="center">
