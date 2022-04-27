@@ -2,7 +2,7 @@
 <!-- readme has snippets from https://github.com/othneildrew/Best-README-Template -->
 <!-- badges are by the wonderful https://michaelcurrin.github.io/badge-generator/#/ -->
 
-# Team Profile Generator
+# Note Taker App
 <a id="top" href="#license"><img src="https://img.shields.io/badge/License-MIT-2ea44f" alt="License - MIT"></a>
 [![Made with JavaScript](https://img.shields.io/badge/Made_with-JavaScript-blue?logo=javascript&logoColor=white)](https://www.javascript.com/ "Go to JavaScript homepage")
 [![Made with Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org "Go to Node.js homepage")
